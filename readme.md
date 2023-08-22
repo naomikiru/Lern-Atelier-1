@@ -13,6 +13,7 @@ Ich möchte die Lern Aufträge im BBB markdown fertig machen und
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [ ] bbb markdown fertig machen
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
