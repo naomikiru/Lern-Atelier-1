@@ -2,11 +2,11 @@
 
 Syuan yu Lai
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+29.08.2023
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+Ich möchte die Lern Aufträge im BBB markdown fertig machen und 
 
 ## Arbeitspakete für dd.mm.yyyy
 
