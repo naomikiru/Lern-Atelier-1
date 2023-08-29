@@ -6,11 +6,10 @@ Syuan yu Lai
 
 ## Leit-Satz
 
-Ich möchte die Lern Aufträge im BBB markdown fertig machen und 
+Ich möchte die Lern Aufträge im BBB markdown fertig machen und versuchen etwas kleines zu programmieren.
 
 ## Arbeitspakete für dd.mm.yyyy
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 - [ ] bbb markdown fertig machen
