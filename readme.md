@@ -8,7 +8,7 @@ Syuan yu Lai
 
 Ich möchte die Lern Aufträge im BBB markdown fertig machen und versuchen etwas kleines zu programmieren.
 
-## Arbeitspakete für dd.mm.yyyy
+## Arbeitspakete für 28.08.2023
 
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
