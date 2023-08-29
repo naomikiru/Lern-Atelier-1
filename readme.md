@@ -6,13 +6,17 @@ Syuan yu Lai
 
 ## Leit-Satz
 
-Ich möchte die Lern Aufträge im BBB markdown fertig machen und versuchen etwas kleines zu programmieren.
+Ich habe habe heute etwas kleines progammiert. Das Program fragt uns nach unseren Namen und Alter, die man dann eingeben muss. Ich hab aber den bbb markdown auftrag nicht fertig gemacht, weil ich herausfinden wollte wie man für die Antwort beim Fragen des Alters, nur Zahlen eingeben kann. Ich habe auch versucht einen kleinen Timer reinzuprogrammieren. (56) 
 
-## Arbeitspakete für 28.08.2023
+## Arbeitspakete für 05.09.2023
 
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
-- [ ] bbb markdown fertig machen
+- [ ] bbb markdown auftrag fertig machen
+- [ ] einen kleinen timer programmieren
+- [ ] zahlen als antwort
+
+
+
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -21,5 +25,3 @@ Ich möchte die Lern Aufträge im BBB markdown fertig machen und versuchen etwas
 - [ ] ...
 - [ ] ...
 - [ ] ...
-
-✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
