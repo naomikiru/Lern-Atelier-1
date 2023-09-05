@@ -2,26 +2,18 @@
 
 Syuan yu Lai
 
-29.08.2023
+05.09.2023
 
 ## Leit-Satz
 
-Ich habe habe heute etwas kleines progammiert. Das Program fragt uns nach unseren Namen und Alter, die man dann eingeben muss. Ich hab aber den bbb markdown auftrag nicht fertig gemacht, weil ich herausfinden wollte wie man für die Antwort beim Fragen des Alters, nur Zahlen eingeben kann. Ich habe auch versucht einen kleinen Timer reinzuprogrammieren. (56) 
+Ich habe nicht herausgefunden wie man den Timer und die Zahlen als Antwort macht, aber ich habe ein kleines neues Projekt angefangen. Ich habe ein kleines Spiel programmiert mithilfe von einem Youtube Video. Es geht um rock, paper and scissors. Es war zwar einfach mit dem Video aber ich habe es trotzdem verstanden wie man es machen muss und warum das so ist. (63)
 
-## Arbeitspakete für 05.09.2023
+## Arbeitspakete für 12.09.2023
 
 
 - [ ] bbb markdown auftrag fertig machen
 - [ ] einen kleinen timer programmieren
 - [ ] zahlen als antwort
 
+- [ ] wiederholung ins spiel rein tun
 
-
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
