@@ -30,5 +30,9 @@ Ich habe heute das Rock paper Scissors Spiel fertig programmiert. Ich habe einen
 
 
  | Nummer	| Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
- | - - - | - - - | - - - | - - - | - - - |
- | 1	| - | rock | 	computer chose rock/paper/scissors | - |
+
+
+Spalte 1 | Spalte 2 | Spalte 3
+-------- | -------- | --------
+Inhalt   | Inhalt   | Inhalt
+Inhalt   | Inhalt   | Inhalt
