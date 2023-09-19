@@ -29,10 +29,8 @@ Ich habe heute das Rock paper Scissors Spiel fertig programmiert. Ich habe einen
 - [ ] im modul 431 aufträge aufarbeiten
 
 
- | Nummer	| Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+Programm Rock, Paper, Scissors 
 
-
-Spalte 1 | Spalte 2 | Spalte 3
--------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
+Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt?
+-------- | -------- | -------- | ---------- | ----------
+1  | -   | rock/paper/scissors   | Computer chose rock/paper/scissors | ja
