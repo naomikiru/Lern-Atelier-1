@@ -29,6 +29,6 @@ Ich habe heute das Rock paper Scissors Spiel fertig programmiert. Ich habe einen
 - [ ] im modul 431 aufträge aufarbeiten
 
 
-| Nummer	| Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
-| - - - | - - - | - - - | - - - | - - - |
-| 1	| - | rock | 	computer chose rock/paper/scissors | - |
+ | Nummer	| Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
+ | - - - | - - - | - - - | - - - | - - - |
+ | 1	| - | rock | 	computer chose rock/paper/scissors | - |
