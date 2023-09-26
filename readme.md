@@ -26,7 +26,7 @@ Ich habe heute das Rock paper Scissors Spiel fertig programmiert. Ich habe einen
 ## Arbeitspakete für 26.09.2023
 - [ ] einen timer programmieren
 - [ ] zahlen als antwort
-- [ ] im modul 431 aufträge aufarbeiten
+- [x] im modul 431 aufträge aufarbeiten
 
 
 Programm Rock, Paper, Scissors 
